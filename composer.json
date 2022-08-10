@@ -1,0 +1,19 @@
+{
+    "name": "valerjan/default",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "src/api",
+            "Core\\": "core/",
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valerii",
+            "email": "nyshnui@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
